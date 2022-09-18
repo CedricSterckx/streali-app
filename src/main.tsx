@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './main.scss';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
-	<React.StrictMode>
-		<div>ok</div>
-	</React.StrictMode>
+  <React.StrictMode>
+    <div>ok</div>
+  </React.StrictMode>
 );
