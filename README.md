@@ -7,7 +7,6 @@
 <img  style="display: block; margin: auto; width: 100%; height: auto;"  src="https://raw.githubusercontent.com/Streali/App/main/src/assets/banner.png">
 </a>
 </p>
-<h1 align="center">Streali</h1>
 <h3 align="center">The best tool to make your stream prettier.</h3>
 
 <p align="center">
@@ -30,13 +29,13 @@ Streali provides you with tools to make your streaming experience easier. Whethe
 
 ## Architecture
 
-You can find the architecture of the project on FigJam: [https://www.figma.com/file/x8XGLvGorcFihEgSpmJL9R/Streali---Frontend-Architecture?node-id=0%3A1](Here)
+You can find the architecture of the project on FigJam: [Here](https://www.figma.com/file/x8XGLvGorcFihEgSpmJL9R/Streali---Frontend-Architecture?node-id=0%3A1)
 
 ## Design system
 
 Like the project, the design system is also open source. You can view and use it on Figma.
 
-Link to the DS : [https://www.figma.com/file/iLnBa0mWPgln6KWvB69BOr/Streali---Design-System?node-id=617%3A1717](Here)
+Link to the DS : [Here](https://www.figma.com/file/iLnBa0mWPgln6KWvB69BOr/Streali---Design-System?node-id=617%3A1717)
 
 ## Contributions
 
