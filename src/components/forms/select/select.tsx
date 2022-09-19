@@ -22,7 +22,7 @@ export interface SelectProps {
   defaultValue?: { value: string; label: string };
 }
 
-export function Select(props: SelectProps) {
+export const Select = (props: SelectProps) => {
   const {
     options,
     onChange,
@@ -77,4 +77,4 @@ export function Select(props: SelectProps) {
       )}
     </label>
   );
-}
+};
